@@ -1,6 +1,6 @@
 # Welcome
 ## About
-Hi my name is Tatiana Dorrestein. I am an Enviromental Engineering major, member of the UC Davis Honors College and a triathlete.
+Hi my name is Tatiana Dorrestein. I am an Environmental Engineering major, member of the UC Davis Honors College and a triathlete.
 
 ## Skills
 - Technical: Fusion 360 and Onshape
